@@ -1,3 +1,5 @@
+`default_nettype none
+
 module vga #(parameter H_VIEW = 640,
              parameter H_FRONT = 16,
              parameter H_SYNC = 96,

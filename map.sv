@@ -1,3 +1,4 @@
+`default_nettype none
 // map.sv
 // 16x16 hardcoded wall map
 // cell (x, y) is a wall if map_out == 1

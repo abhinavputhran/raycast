@@ -1,3 +1,5 @@
+`default_nettype none
+
 // Player point-of-view registers: position, direction, viewplane
 // All values are Q10.10 fixed point (20 bits: 10 integer, 10 fractional)
 //

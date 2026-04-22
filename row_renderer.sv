@@ -1,3 +1,5 @@
+`default_nettype none
+
 // Beam-racing pixel output for raycaster.
 // Runs entirely combinationally - called every pixel clock.
 //
